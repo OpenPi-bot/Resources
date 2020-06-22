@@ -8,7 +8,7 @@
 
 1. How to perform SLAM using cheap sensors , such as Ultrasonic and Monocular Camera:
 
-  ---> Using Ultrasonic Sensors:
+  #### Using Ultrasonic Sensors:
    
    * https://www.youtube.com/watch?v=QTZiG2FM4KM
   
@@ -16,7 +16,7 @@
 
    * https://www.youtube.com/watch?v=5OMFguNRjgg
 
-   ---> Using Monocular Sensors:
+   #### Using Monocular Sensors:
 
    * https://www.hindawi.com/journals/js/2017/6842173/
 
