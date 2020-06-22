@@ -14,8 +14,6 @@
   
    * https://www.youtube.com/watch?v=5OMFguNRjgg
 
-   * https://www.youtube.com/watch?v=5OMFguNRjgg
-
    #### Using Monocular Sensors:
 
    * https://www.hindawi.com/journals/js/2017/6842173/
