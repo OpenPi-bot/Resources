@@ -5,7 +5,6 @@
 3. Aditya
 
 ## Static Map Navigation:
--------------------------
 
 - Mapping
    - Mapping can be achieved , using the ultrasonic sensors easily(thanks to the sensor modelling done!) , but accuracy is questionable!
@@ -22,13 +21,11 @@
    - Or we can code up our own planner(kinodynamic path planning!)
   
 ## Alternate Sensors:
-----------------------
 
 - Camera
    - If we use a monocular camera , then localisation will be simpler relatively
 
 ## To do:
----------
 
 - Do more research on how localisation is done with Lidar and depth cams
    - Then think , how to implement it on Ultrasonic sensors
